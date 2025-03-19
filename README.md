@@ -5,6 +5,11 @@ The **Bank Loan Report Dashboard** provides a comprehensive analysis of the bank
 
 ---
 
+## Dataset
+You can access the dataset used for this dashboard here: [Loan_Data.csv](https://github.com/Sahil-Rajpal/Bank-Loan-DashBoard/blob/main/Loan_Data.csv)
+
+---
+
 ## 🎯 Problem Statement
 To monitor and assess the bank's lending activities and performance, we need a dashboard that visualizes:
 - **Key Loan Metrics** over time
