@@ -10,6 +10,16 @@ You can access the dataset used for this dashboard here: [Loan_Data.csv](https:/
 
 ---
 
+### Summary Dashboard
+![Summary Dashboard](https://github.com/Sahil-Rajpal/Bank-Loan-DashBoard/blob/main/Summary.png)
+[View Full Summary Dashboard](https://github.com/Sahil-Rajpal/Bank-Loan-DashBoard/blob/main/Summary.png)
+
+### Overview Dashboard
+![Overview Dashboard](https://github.com/Sahil-Rajpal/Bank-Loan-DashBoard/blob/main/Overview.jpeg)
+[View Full Overview Dashboard](https://github.com/Sahil-Rajpal/Bank-Loan-DashBoard/blob/main/Overview.jpeg)
+
+---
+
 ## 🎯 Problem Statement
 To monitor and assess the bank's lending activities and performance, we need a dashboard that visualizes:
 - **Key Loan Metrics** over time
